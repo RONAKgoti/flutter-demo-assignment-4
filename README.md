@@ -1,16 +1,18 @@
-# flutter_demo
+# Basic Flutter Project
 
-A new Flutter project.
+This project is created for assignment submission.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- New Flutter project created
+- App title changed
+- Home screen modified
+- Successfully ran on emulator
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Output](Screenshot%202026-05-03%20173239.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Result
+
+Project runs successfully without errors.
